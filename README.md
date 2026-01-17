@@ -4,7 +4,7 @@
 - ❤️ Self Hosting
 - ❤️ Linux
 
-### 🧑‍💻 Tech Stack
+## 🧑‍💻 Tech Stack
 - NodeJS
 - ExpressJS
 - PostgreSQL
