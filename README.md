@@ -6,9 +6,9 @@
 
 ## 🧑‍💻 Tech Stack
 
-<div align="center" >
+<div align="center">
 
-<table width="600">
+<table width="1000">
 <tr>
 <td>
 
