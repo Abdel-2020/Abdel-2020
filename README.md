@@ -1,12 +1,10 @@
-# Welcome
-
-## About Me
+## Welcome to my GitHub here's a TL:DR about me:
 - Over 7+ years experience in IT 
 - Recreational Programmer
 - ❤️ Self Hosting
 - ❤️ Linux
 
-### Tech Stack
+### 🧑‍💻 Tech Stack
 - NodeJS
 - ExpressJS
 - PostgreSQL
