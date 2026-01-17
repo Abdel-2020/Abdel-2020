@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td align="center" width="600">
+<td align="center" width="1000">
 
 ### 🌐 Web
 
