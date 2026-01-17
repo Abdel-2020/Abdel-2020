@@ -1,4 +1,4 @@
-## Welcome to my GitHub here's a TL:DR about me:
+## TL:DR About me:
 - Over 7+ years experience in IT 
 - Recreational Programmer
 - ❤️ Self Hosting
