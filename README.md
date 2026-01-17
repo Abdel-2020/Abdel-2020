@@ -4,6 +4,9 @@
 - ❤️ Self Hosting
 - ❤️ Linux
 
+## Projects
+🦖 [Pterodactdle](https://app.pterodactdle.com) A Wordle inspired guessing game with a prehistoric twist!
+
 ## 🧑‍💻 Tech Stack
 
 <div align="center">
@@ -52,8 +55,7 @@ btw)</span>
 
 </div>
 
-## Projects
-🦖 [Pterodactdle](https://app.pterodactdle.com) A Wordle inspired guessing game with a prehistoric twist! 
+ 
 
 ## Boot.Dev course progress (A little out of date)
 <p align="center">
