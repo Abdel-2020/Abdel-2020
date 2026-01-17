@@ -57,7 +57,7 @@ btw)</span>
 
 ## Boot.Dev course progress (A little out of date)
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/83d248ef-2a86-48ef-9d0a-f82dccf94e4c/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/83d248ef-2a86-48ef-9d0a-f82dccf94e4c/thumbnail" width="600">
 </p>
 
 
