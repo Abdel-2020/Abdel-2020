@@ -8,9 +8,9 @@
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
-<td align="center" >
+<td align="center" width="600">
 
 ### 🌐 Web
 
