@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Tech Stack
 
-<div align="left">
+<div>
 
 <table>
 <tr>
