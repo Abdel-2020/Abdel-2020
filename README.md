@@ -5,15 +5,16 @@
 - ❤️ Linux
 
 ## 🧑‍💻 Tech Stack
-- NodeJS
-- ExpressJS
-- PostgreSQL
-- MongoDB
-- HTML
-- HTMX
-- Python
-- Linux
-- Docker
+### Web
+    
+### Databases
+   
+### Scripting
+ 
+### OS
+   (󰣇 btw...) 
+### Other
+
 
 ## Projects
 🦖 [Pterodactdle](https://app.pterodactdle.com) A Wordle inspired guessing game with a prehistoric twist! 
