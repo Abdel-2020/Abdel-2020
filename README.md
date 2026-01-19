@@ -1,6 +1,6 @@
 ## TL:DR About me:
 
-* Over 7+ years experience in IT
+* Over 7 years experience in IT
 * Recreational Programmer
 * ❤️ Self Hosting
 * ❤️ Linux
